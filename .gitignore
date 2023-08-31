@@ -27,3 +27,4 @@
 *.yml
 *.jar
 .allure/allure-2.24.0/bin/allure
+*.csv
