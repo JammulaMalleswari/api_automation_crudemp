@@ -3,7 +3,6 @@
 ## Project Description:
 * API Testing Automation framework - Rest-assured, CRUD operations of an Employee api. 
 * Written in Java with TestNG, RestAssured & Maven
-* Can run test scripts in parallel
 
 ## Setup:
 * Install Java 17
